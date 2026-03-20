@@ -11,3 +11,9 @@ Per [HTB's write-up policy](https://help.hackthebox.com/en/articles/5188925-stre
 | Challenge | Difficulty | Category | Write-Up |
 |-----------|-----------|----------|----------|
 | BFT | Very Easy | DFIR / MFT Analysis | [Link](forensics/bft/README.md) |
+
+## Machines
+
+| Machine | Difficulty | OS | Season | Write-Up |
+|---------|-----------|-----|--------|----------|
+| VariaType | Medium | Linux | Season 10 | [Link](machines/variatype/README.md) |
