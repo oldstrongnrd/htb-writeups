@@ -6,7 +6,7 @@ Per [HTB's write-up policy](https://help.hackthebox.com/en/articles/5188925-stre
 
 ## Challenges
 
-### Forensics
+### Sherlocks
 
 | Challenge | Difficulty | Category | Write-Up |
 |-----------|-----------|----------|----------|
