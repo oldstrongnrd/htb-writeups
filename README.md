@@ -17,3 +17,4 @@ Per [HTB's write-up policy](https://help.hackthebox.com/en/articles/5188925-stre
 | Machine | Difficulty | OS | Season | Write-Up |
 |---------|-----------|-----|--------|----------|
 | VariaType | Medium | Linux | Season 10 | [Link](machines/variatype/README.md) |
+| WingData | Easy | Linux | Season 10 | [Link](machines/wingdata/README.md) |
