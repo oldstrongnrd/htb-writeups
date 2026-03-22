@@ -16,6 +16,7 @@ Per [HTB's write-up policy](https://help.hackthebox.com/en/articles/5188925-stre
 
 | Machine | Difficulty | OS | Season | Write-Up |
 |---------|-----------|-----|--------|----------|
+| Luck Dice | Easy | Linux | None | [Link](machines/luckdice/README.md) |
 | Kobold | Easy | Linux | None | [Link](machines/kobold/README.md) |
 | VariaType | Medium | Linux | Season 10 | [Link](machines/variatype/README.md) |
 | WingData | Easy | Linux | Season 10 | [Link](machines/wingdata/README.md) |
