@@ -11,6 +11,7 @@ Per [HTB's write-up policy](https://help.hackthebox.com/en/articles/5188925-stre
 | Challenge | Difficulty | Category | Write-Up |
 |-----------|-----------|----------|----------|
 | BFT | Very Easy | DFIR / MFT Analysis | [Link](forensics/bft/README.md) |
+| Unit42 | Very Easy | DFIR / Sysmon Analysis | [Link](forensics/unit42/README.md) |
 | Vantage | Easy | DFIR / Network Analysis | [Link](forensics/vantage/README.md) |
 
 ## Machines
