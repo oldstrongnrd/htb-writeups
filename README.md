@@ -15,6 +15,7 @@ Per [HTB's write-up policy](https://help.hackthebox.com/en/articles/5188925-stre
 | I Like To | Easy | DFIR / MOVEit CVE-2023-34362 | [Link](forensics/i-like-to/README.md) |
 | Vantage | Easy | DFIR / Network Analysis | [Link](forensics/vantage/README.md) |
 | Meerkat | Easy | DFIR / Network Analysis | [Link](forensics/meerkat/README.md) |
+| Litter | Medium | DFIR / DNS Tunneling | [Link](forensics/litter/README.md) |
 
 ## Machines
 
