@@ -26,3 +26,5 @@ Per [HTB's write-up policy](https://help.hackthebox.com/en/articles/5188925-stre
 | VariaType | Medium | Linux | Season 10 | [Link](machines/variatype/README.md) |
 | WingData | Easy | Linux | Season 10 | [Link](machines/wingdata/README.md) |
 | Artificial | Easy | Linux | None | [Link](machines/artificial/README.md) |
+| DevArea | Medium | Linux | Season 10 | [Link](machines/devarea/README.md) |
+| Funnel | Very Easy | Linux | Starting Point | [Link](machines/funnel/README.md) |
