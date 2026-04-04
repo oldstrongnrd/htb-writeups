@@ -24,6 +24,7 @@ Per [HTB's write-up policy](https://help.hackthebox.com/en/articles/5188925-stre
 | Bike | Very Easy | Linux | Starting Point | [Link](machines/bike/README.md) |
 | Funnel | Very Easy | Linux | Starting Point | [Link](machines/funnel/README.md) |
 | Pennyworth | Very Easy | Linux | Starting Point | [Link](machines/pennyworth/README.md) |
+| Tactics | Very Easy | Windows | Starting Point | [Link](machines/tactics/README.md) |
 | Artificial | Easy | Linux | Retired | [Link](machines/artificial/README.md) |
 | Kobold | Easy | Linux | Retired | [Link](machines/kobold/README.md) |
 | Luck Dice | Easy | Linux | Retired | [Link](machines/luckdice/README.md) |
