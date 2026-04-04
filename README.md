@@ -22,10 +22,11 @@ Per [HTB's write-up policy](https://help.hackthebox.com/en/articles/5188925-stre
 | Machine | Difficulty | OS | Season | Write-Up |
 |---------|-----------|-----|--------|----------|
 | Bike | Very Easy | Linux | Starting Point | [Link](machines/bike/README.md) |
-| Luck Dice | Easy | Linux | None | [Link](machines/luckdice/README.md) |
-| Kobold | Easy | Linux | None | [Link](machines/kobold/README.md) |
+| Funnel | Very Easy | Linux | Starting Point | [Link](machines/funnel/README.md) |
+| Pennyworth | Very Easy | Linux | Starting Point | [Link](machines/pennyworth/README.md) |
+| Artificial | Easy | Linux | Retired | [Link](machines/artificial/README.md) |
+| Kobold | Easy | Linux | Retired | [Link](machines/kobold/README.md) |
+| Luck Dice | Easy | Linux | Retired | [Link](machines/luckdice/README.md) |
+| DevArea | Medium | Linux | Season 10 | [Link](machines/devarea/README.md) |
 | VariaType | Medium | Linux | Season 10 | [Link](machines/variatype/README.md) |
 | WingData | Easy | Linux | Season 10 | [Link](machines/wingdata/README.md) |
-| Artificial | Easy | Linux | None | [Link](machines/artificial/README.md) |
-| DevArea | Medium | Linux | Season 10 | [Link](machines/devarea/README.md) |
-| Funnel | Very Easy | Linux | Starting Point | [Link](machines/funnel/README.md) |
