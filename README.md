@@ -21,6 +21,7 @@ Per [HTB's write-up policy](https://help.hackthebox.com/en/articles/5188925-stre
 
 | Machine | Difficulty | OS | Season | Write-Up |
 |---------|-----------|-----|--------|----------|
+| Archetype | Very Easy | Windows | Starting Point | [Link](machines/archetype/README.md) |
 | Bike | Very Easy | Linux | Starting Point | [Link](machines/bike/README.md) |
 | Funnel | Very Easy | Linux | Starting Point | [Link](machines/funnel/README.md) |
 | Pennyworth | Very Easy | Linux | Starting Point | [Link](machines/pennyworth/README.md) |
